@@ -30,7 +30,7 @@ Welcome
 
     <body>
         <h1>Selamat datang di laravel</h1>
-        Ingin ke halaman home, <a href="/home">klik disini</a>
+        Ingin ke halaman home, <a href="/dashboard">klik disini</a>
     </body>
     
 </html>
